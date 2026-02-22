@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: franciscogsilverio/golang-argo
-  newTag: 2086cb10ec80c781cbba701a91df855cc9fb1cb0
+  newTag: a6a7b49125b9fc22624612bb96228ceb532bfbb0
